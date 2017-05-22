@@ -10,7 +10,7 @@ permalink: restfulapis_clinical_observation.html
 summary: Clinical Observation
 ---
 
-## Observation ##
+## Observation - Changed ##
 
 {% include profile.html content="[Care Connect Observation](http://www.interopen.org/candidate-profiles/care-connect/CareConnect-Observation-1.html)" %}
 
